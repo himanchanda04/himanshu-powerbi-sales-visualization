@@ -1,5 +1,5 @@
 
-# Power BI Project ‚Äì Global Sales Dashboard  
+# Power BI Project ‚ Sales Dashboard  
 **By Himanshu Manchanda**
 
 ## Overview  
